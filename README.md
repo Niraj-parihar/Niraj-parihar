@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Niraj Parihar</h1>
+<h1 align="center">Namaste <img align="centre" src="https://em-content.zobj.net/source/microsoft-teams/363/folded-hands_1f64f.png" height="30" width="40">, I'm Niraj Parihar</h1>
 <h3 align="center">A Passionate MERN Stack Developer From India</h3>
 <img align="right" alt="programming" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
@@ -11,18 +11,19 @@
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 👨‍💻 All of my projects are available at [https://pariharniraj.netlify.app/](Niraj-Parihar)
+- 👨‍💻 All of my projects are available at [PortFolio-Here](https://pariharniraj.netlify.app/)
 
 - 💬 Ask me about **Front-End, Back-End & MERN**
 
 - 📫 How to reach me **pariharniraj.nitj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZbnC7gt4vCSDH7L5_HpwJtBVJwYmAzEO/view](https://drive.google.com/file/d/1ZbnC7gt4vCSDH7L5_HpwJtBVJwYmAzEO/view)
+- 📄 Know about my experiences [Resume-Here](https://drive.google.com/file/d/1ZbnC7gt4vCSDH7L5_HpwJtBVJwYmAzEO/view)
 
 - ⚡ Fun fact **I think I am Serial Plant Rescuer 🌱🦸‍♀️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://pariharniraj.netlify.app/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Internet-icon.svg" alt="https://pariharniraj.netlify.app/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_thegr8niraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_thegr8niraj/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/niraj_parihar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/niraj_parihar/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/nirajptt19/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/nirajptt19/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>

@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Namaste <img align="centre" src="https://em-content.zobj.net/source/microsoft-teams/363/folded-hands_1f64f.png" height="30" width="40">, I'm Niraj Parihar</h1>
 <h3 align="center">A Passionate MERN Stack Developer From India</h3>
-<img align="right" alt="programming" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
+<img align="right" alt="programming" width="350" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj-parihar&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-parihar" /> </p>
 

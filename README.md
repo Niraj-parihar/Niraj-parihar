@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Car-Manager-Api](https://github.com/Niraj-parihar/Api)
 
-- 🌱 I’m currently learning **Back-End Development**
+- 🌱 I’m currently learning **Salesforce Development**
 
 - 👨‍💻 All of my projects are available at [PortFolio-Here](https://pariharniraj.netlify.app/)
 

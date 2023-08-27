@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume-Here](https://drive.google.com/file/d/1ZbnC7gt4vCSDH7L5_HpwJtBVJwYmAzEO/view)
 
-- ⚡ Fun fact **I think I am Serial Plant Rescuer 🌱🦸‍♀️**
+- ⚡ Fun fact **Tea is better than coffee, Change my mind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

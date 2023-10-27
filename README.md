@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pariharniraj.nitj@gmail.com**
 
-- 📄 Know about my experiences [Resume-Here](https://drive.google.com/file/d/1ZbnC7gt4vCSDH7L5_HpwJtBVJwYmAzEO/view)
+- 📄 Know about my experiences [Resume-Here](https://drive.google.com/file/d/1-LMbslKVhPbp0LVExz7yBa9Kiv8nXAun/view?usp=sharing)
 
 - ⚡ Fun fact **Tea is better than coffee, Change my mind**
 

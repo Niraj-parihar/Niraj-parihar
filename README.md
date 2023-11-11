@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Car-Manager-Api](https://github.com/Niraj-parihar/Api)
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **NEXT JS 14**
 
 - 👨‍💻 All of my projects are available at [PortFolio-Here](https://pariharniraj.netlify.app/)
 

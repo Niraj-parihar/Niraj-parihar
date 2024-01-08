@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Car-Manager-Api](https://github.com/Niraj-parihar/Api)
+- 🔭 I’m currently working on [Car-Manager](https://github.com/Niraj-parihar/Api)
 
-- 🌱 I’m currently learning **NEXT JS 14**
+- 🌱 I’m currently learning **NEXT JS 14 & DOCKER**
 
 - 👨‍💻 All of my projects are available at [PortFolio-Here](https://pariharniraj.netlify.app/)
 
